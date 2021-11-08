@@ -8,7 +8,6 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  * @Author Squash
  * @Data 2021/11/8 10:29
  */
-@EnableAspectJAutoProxy(exposeProxy = true)
 @SpringBootApplication
 public class MainApplication {
     public static void main(String[] args) {
